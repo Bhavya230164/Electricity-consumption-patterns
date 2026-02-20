@@ -37,3 +37,47 @@ This project presents an interactive data visualization dashboard built using Ta
 ---
 
 ## 📂 Project Structure
+Electricity-Consumption-Dashboard/
+│
+├── README.md
+├── Dashboard/
+│ └── Electricity_Consumption_Dashboard.twbx
+├── Dataset/
+│ └── consumption_data.csv
+└── Images/
+└── dashboard_screenshot.png
+
+---
+
+## 📈 Dashboard Insights
+
+The dashboard helps answer the following:
+
+- Which states have the highest electricity consumption?  
+- How did electricity usage change during lockdown?  
+- What are the yearly and quarterly trends?  
+- Which regions contribute most to overall consumption?  
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.twbx` file from the Dashboard folder.
+2. Open using Tableau Desktop or Tableau Public.
+3. Use filters to switch between years.
+4. Explore interactive charts and insights.
+
+---
+
+## 🔮 Future Enhancements
+
+- Integration of real-time electricity data  
+- Predictive analytics for future demand forecasting  
+- AI-based anomaly detection  
+- Web deployment for wider accessibility  
+
+---
+
+## 👩‍💻 Author
+
+**Bhavya Kadiyala**
